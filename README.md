@@ -9,33 +9,33 @@ Majority number of baby boomers are ready to retire, we want to ensure that Pewl
 ### Based on our analysis:
 - 133,776 employees born in the years 1952 through 1955. This number is inflated since employees may appear in multiple rows due to change in job titles.
 
-![133776](133776.png)
+![133776](Images/133776.png)
 
 - 90,398 unique employees are eligible for retirement.
 
-![90398](90398.png)
+![90398](Images/90398.png)
 
 - title of employees who are eligible for retirement:
 
-![retiring](retiring.png)
+![retiring](Images/retiring.png)
 
 - 1,549 employees are eligible to participate in the "silver tsunami" mentorship program.
 
-![1549](1549.png)
+![1549](Images/1549.png)
 
 ## Summary
 Question 1: How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
 90,398 roles will need to be filled.
 
-![90398](90398.png)
+![90398](Images/90398.png)
 
-![unique](unique.png)
+![unique](Images/unique.png)
 
 Question 2: Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 Based on the analysis there are not enough qualified employees to mentor the next generation as there are only 1,549 employees, who are eligible to participate in the "silver tsunami" mentorship program
 
-![1549](1549.png) 
+![1549](Images/1549.png) 
 
-![mentor](mentor.png)
+![mentor](Images/mentor.png)
